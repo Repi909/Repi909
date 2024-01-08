@@ -21,6 +21,7 @@ On the learning side of things, I have a few code projects which I'm working on:
 + C++
 + SQL
 + C# .NET
++ Git/GitHub
 + Server Management/ Active Directory
 + Virtual Machines/ VMWare ESXI, Workstation Pro
 + Arduino
