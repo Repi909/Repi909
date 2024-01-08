@@ -4,7 +4,6 @@
 
 </div>
 
-## Intro
 I am primarily a LabVIEW Developer with experience in C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++.
 
 ### Learning and Development
