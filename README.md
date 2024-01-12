@@ -12,7 +12,7 @@ On the learning side of things, I have a few code projects which I'm working on:
 
 + [**Factory Part Tracking Application**](https://github.com/Repi909/Flask-Practice) -Lost time tracking with a Raspberry Pi, Flask and Client/Server using MQTT.
 + [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) -University project involving the full software development life cycle.
-+ [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) -University project
++ [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) -University project (currently private)
 
 ## Skills
 
