@@ -24,7 +24,7 @@ On the learning side of things, I have a few code projects which I'm working on:
 + Server Management/ Active Directory
 + Virtual Machines/ VMWare ESXI, Workstation Pro
 + Arduino
-+ Beckhoff Automation
+<!-- + Beckhoff Automation
 
 ---
 
