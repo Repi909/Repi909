@@ -32,11 +32,11 @@ jobs:
               
       - name: Run check for Headings
         run: |
-              if ! grep -q '^## Skills ' README.md; then
+              if ! grep -q '^## Skills' README.md; then
               echo "ERROR: Skills heading missing!"
               exit 1
               fi
-              if ! grep -q '^### Learning and Development ' README.md; then
+              if ! grep -q '^### Learning and Development' README.md; then
               echo "ERROR: L&D heading missing!"
               exit 1
               fi
