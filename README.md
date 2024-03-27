@@ -10,7 +10,7 @@ I am primarily a LabVIEW Developer with experience in C++, SQL and C# .NET. My p
 I am also completing my BEng Embedded Electronics and Systems Design @ University of Greenwich.
 On the learning side of things, I have a few code projects which I'm working on:
 
-+ [**Factory Part Tracking Application**](https://github.com/Repi909/Flask-Practice) -Lost time tracking with a Raspberry Pi, Flask and Client/Server using MQTT.
++ [**Data File to SQL Table**](https://github.com/Repi909/FileToSQLTool) - File parser that converts data into a DataTable. The table is then sent through an SQL wrapper to a database table.
 + [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) -University project involving the full software development life cycle.
 + [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) -University project to control a robot arm and make it stack blocks based on colour.
 
