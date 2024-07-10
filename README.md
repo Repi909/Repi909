@@ -10,7 +10,7 @@ I am primarily a LabVIEW Developer with experience in C++, SQL and C# .NET. My p
 I am also completing my BEng Embedded Electronics and Systems Design @ University of Greenwich.
 On the learning side of things, I have a few code projects which I'm working on:
 
-+ [**Data File to SQL Table**](https://github.com/Repi909/FileToSQLTool) - File parser that converts data into a DataTable. The table is then sent through an SQL wrapper to a database table.
++ [**Data File to SQL Table**](https://github.com/Repi909/FileToSQLTool) - File parser that converts data into a DataTable. The table is then sent through an SQL wrapper to a database table. This is developed as a Windows service to run in the background.
 + [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) -University project involving the full software development life cycle.
 + [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) -University project to control a robot arm and make it stack blocks based on colour.
 
