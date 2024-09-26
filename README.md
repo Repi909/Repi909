@@ -4,7 +4,7 @@
 
 </div>
 
-I am primarily a LabVIEW Developer with experience in C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++. My role at Johnson Matthey is developing software applications and solutions for test rigs that are used within the chemistry industry using LabVIEW and Beckhoff PLC/Twincat.
+I am primarily a LabVIEW Software Engineer with experience in C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++. My role at Johnson Matthey is developing software applications and solutions for test rigs that are used within R&D for the chemistry industry.
 
 ### Learning and Development
 I am also completing my BEng Embedded Electronics and Systems Design @ University of Greenwich.
