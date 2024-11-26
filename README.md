@@ -4,29 +4,52 @@
 
 </div>
 
-I am primarily a LabVIEW Software Engineer with experience in C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++. My role at Johnson Matthey is developing software applications and solutions for test rigs that are used within R&D for the chemistry industry.
+## About Me
 
-### Learning and Development
+I am currently a LabVIEW Software Engineer with experience in Embedded C, C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++.
+
+My role at Johnson Matthey is to design and develop software applications and solutions in the scope of the full software development lifecycle for test rigs that are used within R&D for the chemistry industry.
+
+## Learning and Development
+
 I am also completing my BEng Embedded Electronics and Systems Design @ University of Greenwich.
 On the learning side of things, I have a few code projects which I'm working on:
 
-+ [**Data File to SQL Table**](https://github.com/Repi909/FileToSQLTool) - File parser that converts data into a DataTable. The table is then sent through an SQL wrapper to a database table. This is developed as a Windows service to run in the background.
-+ [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) -University project involving the full software development life cycle.
-+ [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) -University project to control a robot arm and make it stack blocks based on colour.
++ [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) - University project to control a robot arm and make it stack blocks based on colour.
++ [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) - University project involving the full software development life cycle.
++ [**Car Telemetry System**](https://github.com/UniOfGreenwich/ELEE1119_-the-male-plugs/tree/main) - Universitry project creating a Plug&Play car dashboard designed for full customisation by the user to replace analogue dashboards and modernise vehicles to keep up with latest trends in user comfort and convenience.
 
-## Skills
+Whilst studying and working full time, I am also working toward my professional registration with the IET, advancing my career aspirations of becoming chartered. Currently, I am working on my IEng portfolio which involves both graduating and expanding my project experience.
 
-+ LabVIEW
-+ C++
-+ SQL
-+ C# .NET
-+ Git/GitHub
-+ Server Management/ Active Directory
-+ Virtual Machines/ VMWare ESXI, Workstation Pro
-+ Arduino
-<!-- + Beckhoff Automation
+## Technical Skills
 
----
+### Programming & Scripting
+
+LabVIEW
+C++
+C#.NET
+SQL (Basic Queries, Stored Procedures, Administration)
+Git & SVN
+Github & Bitbucket
+Python (basic scripting)
+Structured Text
+
+### Embedded Systems & Hardware
+
+Arduino and microcontroller programming
+PLC-based systems (Beckhoff Automation/TwinCAT3)
+NI hardware (PXI/CRio/FPGA)
+
+### System Administration & Virtualization
+
+Active Directory & Basic Server Management
+VMWare ESXi and Workstation Pro
+
+### Tools & Methodologies
+
+Agile methodologies (Kanban)
+Object-Oriented Programming
+PlantUML Diagramming
 
 <!--
 **Repi909/Repi909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
