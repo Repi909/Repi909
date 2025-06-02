@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am currently a LabVIEW Software Engineer with experience in Embedded C, C++, SQL and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++.
+I am currently a Software Engineer with experience in LabVIEW, C++, SQL, Python and C# .NET. My professional experience comes from a Test Systems and Facilities Engineering background, specifically designing and innovating new test rigs for research and validation using PLCs, NI hardware, LabVIEW and C++.
 
 My role at Johnson Matthey is to design and develop software applications and solutions in the scope of the full software development lifecycle for test rigs that are used within R&D for the chemistry industry.
 
@@ -17,39 +17,41 @@ On the learning side of things, I have a few code projects which I'm working on:
 
 + [**Dobot Arm Block Stacking using Arduino**](https://github.com/Repi909/ELEE1144-Dobot) - University project to control a robot arm and make it stack blocks based on colour.
 + [**Library Inventory Application**](https://github.com/TeachingMaterial/softwareproject_-team-1) - University project involving the full software development life cycle.
-+ [**Car Telemetry System**](https://github.com/UniOfGreenwich/ELEE1119_-the-male-plugs/tree/main) - Universitry project creating a Plug&Play car dashboard designed for full customisation by the user to replace analogue dashboards and modernise vehicles to keep up with latest trends in user comfort and convenience.
++ [**CAN-Enabled Car Dashboard**](https://github.com/UniOfGreenwich/ELEE1119_-the-male-plugs/tree/main) - University project creating a Plug&Play car dashboard designed for full customisation by the user to replace analogue dashboards and modernise vehicles to keep up with latest trends in user comfort and convenience.
 
 Whilst studying and working full time, I am also working toward my professional registration with the IET, advancing my career aspirations of becoming chartered. Currently, I am working on my IEng portfolio which involves both graduating and expanding my project experience.
 
 ## Technical Skills
 
-### Programming & Scripting
+### Programming
 
-LabVIEW
-C++
-C#.NET
-SQL (Basic Queries, Stored Procedures, Administration)
-Git & SVN
-Github & Bitbucket
-Python (basic scripting)
-Structured Text
++ LabVIEW
++ C++
++ C#.NET
++ SQL/MSSQL Server
++ Git & SVN
++ Github & Bitbucket
++ Python
++ Structured Text
 
 ### Embedded Systems & Hardware
 
-Arduino and microcontroller programming
-PLC-based systems (Beckhoff Automation/TwinCAT3)
-NI hardware (PXI/CRio/FPGA)
++ Arduino and microcontroller programming
++ PLC-based systems (Beckhoff Automation/TwinCAT3)
++ NI hardware (PXI/CRio/FPGA)
 
 ### System Administration & Virtualization
 
-Active Directory & Basic Server Management
-VMWare ESXi and Workstation Pro
++ Active Directory & Basic Server Management
++ VMWare ESXi and Workstation Pro
 
 ### Tools & Methodologies
 
-Agile methodologies (Kanban)
-Object-Oriented Programming
-PlantUML Diagramming
++ Agile methodologies (Kanban)
++ Waterfall methodology
++ System Architecture design
++ Object-Oriented Programming
++ PlantUML Diagramming
 
 <!--
 **Repi909/Repi909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
